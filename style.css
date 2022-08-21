@@ -19,7 +19,7 @@ h2 {
   font-size: 1.5em;
   text-align: center;
   color: #663399;
-  margin: 19.92px;
+  margin: 20px 0;
 }
 
 span {
@@ -39,7 +39,7 @@ th {
   font-weight: bold;
   padding: 1px;
   border-spacing: 2px;
-  background-color: #d7a1f9;
+  background-color: plum;
 }
 
 td {
